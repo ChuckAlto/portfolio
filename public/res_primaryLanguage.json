@@ -12,7 +12,7 @@
     "projects": [
       {
         "title": "201 Class Project: Blackjack",
-        "startDate": "2020",
+        "startDate": "2021",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. The website is for anyone that would like to practice blackjack without risking actual money.",
         "images": [
           "images/portfolio/blackjack/blackjack.png"
@@ -35,7 +35,7 @@
       },
       {
         "title": "Salmon Cookies",
-        "startDate": "2018",
+        "startDate": "2021",
         "description": "A 201 class project :)",
         "images": [
           "images/portfolio/salmonCookies/salmon.png"
@@ -59,7 +59,7 @@
       },
       {
         "title": "Woodworker Chuck",
-        "startDate": "2015",
+        "startDate": "2021",
         "description": "One of the first websites I created. it was a 101 class project.",
         "images": [
           "images/portfolio/woodworking/wood.png",
@@ -84,37 +84,31 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "301 Student",
+        "years": "1.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          ""
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "CSS",
+          "HTML",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "react"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Code Fellows",
+        "title": "201 Student",
+        "years": "11.2021-12.2021",
         "mainTech": [
-          "Angular 7/8"
+          ""
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "CSS",
           "JavaScript",
-          "DHTMLX Gantt"
+          "HTML"
         ]
       }
     ]
