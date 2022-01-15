@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Chuck Altopiedi. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "Hi my name is Chuck Altopiedi I’m from and live in Pittsburgh, PA.  I have  two undergraduate degrees, a Criminology degree and a Film Degree and am now in school for software development. I became interested in software development while learning to program My raspberry pi as a hobby. Before becoming a student at Code Fellows I started several Udemy programming classes including, python, unity and C#, and javascript. At Code Fellow my focus thus far has been on HTML, CSS, and JavaScript.  My interests include: Video games, Movies, TV, Woodworking, building projects with raspberry pis, and general tinkering.  After Code Fellows my ultimate goal is to get a job working on video games, robotics, or a combination of the two.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,70 +11,73 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "201 Class Project: Blackjack",
         "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. The website is for anyone that would like to practice blackjack without risking actual money.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/blackjack/blackjack.png"
         ],
-        "url": "",
+        "url": "https://blackjack-trainer.github.io/blackjack-trainer/",
         "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Salmon Cookies",
+        "startDate": "2018",
+        "description": "A 201 class project :)",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/salmonCookies/salmon.png"
+          
         ],
-        "url": "https://github.com",
+        "url": "https://chuckalto.github.io/cookie-stand/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          }
+        ]
+      },
+      {
+        "title": "Woodworker Chuck",
+        "startDate": "2015",
+        "description": "One of the first websites I created. it was a 101 class project.",
+        "images": [
+          "images/portfolio/woodworking/wood.png",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://chuckalto.github.io/woodworkerchuck/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           }
         ]
       }
