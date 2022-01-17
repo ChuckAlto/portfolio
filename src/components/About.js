@@ -1,8 +1,10 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
-import angularIcon from "@iconify/icons-logos/angular-icon";
+import html from "@iconify/icons-logos/html-5";
 import reactIcon from "@iconify/icons-logos/react";
-import vueIcon from "@iconify/icons-logos/vue";
+import css from "@iconify/icons-logos/css-3";
+import javaScriptIcon from "@iconify/icons-logos/javascript"
+import scss from "@iconify/icons-logos/sass"
 
 class About extends Component {
   render() {
@@ -31,7 +33,7 @@ class About extends Component {
                     alt="Avatar placeholder"
                   />
                   <Icon
-                    icon={angularIcon}
+                    icon={javaScriptIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
@@ -39,9 +41,18 @@ class About extends Component {
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={vueIcon}
+                    icon={scss}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
+                  <Icon
+                    icon={css}
+                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                  />
+                  <Icon
+                    icon={html}
+                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                  />
+                  
                 </span>
               </div>
             </div>
